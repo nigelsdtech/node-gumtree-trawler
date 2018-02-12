@@ -1,0 +1,22 @@
+{
+  "name": "node-gumtree-trawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sh scripts/start.sh",
+    "test": "sh scripts/test.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "config": "^1.28.1",
+    "jsonfile": "^4.0.0",
+    "log4js": "^0.6.38",
+    "q": "^1.5.1",
+    "reporter": "github:nigelsdtech/reporter",
+    "request": "^2.83.0"
+  }
+}

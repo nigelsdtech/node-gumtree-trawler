@@ -1,0 +1,14 @@
+{
+
+  "gumtreeSearch": "https://www.gumtree.com/search?search_category=fiction_items&search_location=fictionLand&q=&distance=15&min_price=&max_price=40&photos_filter=true",
+
+  "resultsStoreFile": ".gumtreeResults-test.json",
+
+  "log" : {
+    "level": "ERROR",
+    "log4jsConfigs": {
+      "replaceConsole": false
+    }
+  }
+
+}
